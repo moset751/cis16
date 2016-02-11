@@ -1,0 +1,13 @@
+
+
+.second-div
+a {
+    color: lightblue;
+}
+
+li {float: center; text-decoration: underline; padding: 5px; list-style-type: none}
+
+a:hover {
+    color: black;
+}
+
